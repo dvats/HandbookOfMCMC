@@ -2,7 +2,7 @@
 
 ## Second Edition
 
-Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.github.io/), [Galin L. Jones](https://galinj.github.io/), [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), [Steve Brooks](https://select-statistics.co.uk/our-consultants/steve-brooks/), [Xiao-li Meng](http://statistics.fas.harvard.edu/people/xiao-li-meng).
+Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.github.io/), [Galin L. Jones](https://galinj.github.io/), [Steve Brooks](https://select-statistics.co.uk/our-consultants/steve-brooks/), [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), [Xiao-li Meng](http://statistics.fas.harvard.edu/people/xiao-li-meng).
 
 Table of contents for the Second Edition:
 
