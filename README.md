@@ -6,31 +6,31 @@ Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.gi
 
 Table of contents for the Second Edition:
 
-| S.No. | Chapter Name | Authors(s)|
+| S.No. | Chapter Name | Authors(s)| Code |
 | ----- | ------------ | --------- |
-| 1. | Introduction to MCMC | Charles J. Geyer |
-| 2. | MCMC using Hamiltonian Dynamics | Radford Neal |
-| 3. | [Optimising and Adapting Metropolis Algorithm Proposal Distributions](https://probability.ca/jeff/ftpdir/handbookart.pdf) | Jeffrey Rosenthal |
-| 4. | [For how many iterations should we run Markov chain Monte Carlo?](https://arxiv.org/abs/2311.02726) | Charles C. Margossian, Andrew Gelman |
-| 5. | [Implementing MCMC: Multivariate estimation with confidence](https://arxiv.org/abs/2408.15396) | James M. Flegal, Rebecca P. Kurtz-Garcia |
-| 6. | Importance Sampling, Simulated Tempering, and Umbrella Sampling | Charles J. Geyer |
-| 7. | [Reversible jump Markov chain Monte Carlo and multi-model samplers](https://arxiv.org/abs/1001.2055v2) | Yanan Fan, Scott A. Sisson, Laurence Davies |
-| 8. | Perfecting MCMC Sampling: Recipes and Reservations | Radu V. Craiu, Xiao-Li Meng |
-| 9. | [The Data Augmentation Algorithm](https://arxiv.org/abs/2406.10464) | Vivekananda Roy, Kshitij Khare, James P. Hobert |
-| 10. | Latent Gaussian Models and Computation for Large Spatial Data | Murali Haran, John Hughes, Ben Seiyon Lee |
-| 11. | Partially collapsed Gibbs sampling & path-adaptive Metropolis Hastings in high-energy astrophysics | David A. van Dyk, Taeyoung Park, Hector McKimm |
-| 12. | [Posterior exploration for computationally intensive forward models](https://arxiv.org/abs/2405.00397) | Mikkel B. Lykkegaard, Colin Fox, Dave Higdon, C. Shane Reese, J. David Moulton |
-| 13. | MCMC for State Space Models | Paul Fearnhead Chris Sherlock |
-| 14. | [MCMC methods for multi-modal distributions](https://arxiv.org/abs/2501.05908v1) | Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon |
-| 15. | Algorithms for Models with Intractable Normalizing Functions | Murali Haran, Bokgyeong Kang, Jaewoo Park |
-| 16. | [Sacred and profane: from the involutive theory of MCMC to helpful Hamiltonian hacks](https://arxiv.org/abs/2410.17398) | Nathan E. Glatt-Holtz, Andrew J. Holbrook, Justin A. Krometis, Cecilia F. Mondaini, Ami Sheth |
-| 17. | [Unbiased Markov Chain Monte Carlo: what, why, and how](https://arxiv.org/abs/2406.06851) | Yves F. Atchadé, Pierre E. Jacob |
-| 18. | [Control Variates for MCMC](https://arxiv.org/abs/2402.07349) | Leah South, Matthew Sutton |
-| 19. | [Convergence Bounds for Monte Carlo Markov Chains](https://arxiv.org/abs/2409.14656v1) | Qian Qin |
-| 20. | [Perturbations of Markov Chains](https://arxiv.org/abs/2404.10251) | Daniel Rudolf, Aaron Smith, Matias Quiroz |
-| 21. | [Running Markov Chain Monte Carlo on Modern Hardware and Software](https://arxiv.org/abs/2411.04260) | Pavel Sountsov, Colin Carroll, Matthew D. Hoffman |
-| 22. | [Bayesian Computation in Deep Learning](https://arxiv.org/abs/2502.18300) | Wenlong Chen, Bolian Li, Ruqi Zhang, Yingzhen Li |
-| 23. | [MCMC-driven learning](https://arxiv.org/abs/2402.09598) | Alexandre Bouchard-Côté, Trevor Campbell, Geoff Pleiss, Nikola Surjanovic |
+| 1. | Introduction to MCMC | Charles J. Geyer |  |
+| 2. | MCMC using Hamiltonian Dynamics | Radford Neal |   |
+| 3. | [Optimising and Adapting Metropolis Algorithm Proposal Distributions](https://probability.ca/jeff/ftpdir/handbookart.pdf) | Jeffrey Rosenthal |  |
+| 4. | [For how many iterations should we run Markov chain Monte Carlo?](https://arxiv.org/abs/2311.02726) | Charles C. Margossian, Andrew Gelman |  |
+| 5. | [Implementing MCMC: Multivariate estimation with confidence](https://arxiv.org/abs/2408.15396) | James M. Flegal, Rebecca P. Kurtz-Garcia |  |
+| 6. | Importance Sampling, Simulated Tempering, and Umbrella Sampling | Charles J. Geyer |  |
+| 7. | [Reversible jump Markov chain Monte Carlo and multi-model samplers](https://arxiv.org/abs/1001.2055v2) | Yanan Fan, Scott A. Sisson, Laurence Davies |  |
+| 8. | Perfecting MCMC Sampling: Recipes and Reservations | Radu V. Craiu, Xiao-Li Meng |  |
+| 9. | [The Data Augmentation Algorithm](https://arxiv.org/abs/2406.10464) | Vivekananda Roy, Kshitij Khare, James P. Hobert |  |
+| 10. | Latent Gaussian Models and Computation for Large Spatial Data | Murali Haran, John Hughes, Ben Seiyon Lee |  |
+| 11. | Partially collapsed Gibbs sampling & path-adaptive Metropolis Hastings in high-energy astrophysics | David A. van Dyk, Taeyoung Park, Hector McKimm |  |
+| 12. | [Posterior exploration for computationally intensive forward models](https://arxiv.org/abs/2405.00397) | Mikkel B. Lykkegaard, Colin Fox, Dave Higdon, C. Shane Reese, J. David Moulton |  |
+| 13. | MCMC for State Space Models | Paul Fearnhead Chris Sherlock |  |
+| 14. | [MCMC methods for multi-modal distributions](https://arxiv.org/abs/2501.05908v1) | Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon |  |
+| 15. | Algorithms for Models with Intractable Normalizing Functions | Murali Haran, Bokgyeong Kang, Jaewoo Park |  |
+| 16. | [Sacred and profane: from the involutive theory of MCMC to helpful Hamiltonian hacks](https://arxiv.org/abs/2410.17398) | Nathan E. Glatt-Holtz, Andrew J. Holbrook, Justin A. Krometis, Cecilia F. Mondaini, Ami Sheth |  |
+| 17. | [Unbiased Markov Chain Monte Carlo: what, why, and how](https://arxiv.org/abs/2406.06851) | Yves F. Atchadé, Pierre E. Jacob | [Code](https://github.com/pierrejacob/umcmchandbook) |
+| 18. | [Control Variates for MCMC](https://arxiv.org/abs/2402.07349) | Leah South, Matthew Sutton |  |
+| 19. | [Convergence Bounds for Monte Carlo Markov Chains](https://arxiv.org/abs/2409.14656v1) | Qian Qin |  |
+| 20. | [Perturbations of Markov Chains](https://arxiv.org/abs/2404.10251) | Daniel Rudolf, Aaron Smith, Matias Quiroz |  |
+| 21. | [Running Markov Chain Monte Carlo on Modern Hardware and Software](https://arxiv.org/abs/2411.04260) | Pavel Sountsov, Colin Carroll, Matthew D. Hoffman |  |
+| 22. | [Bayesian Computation in Deep Learning](https://arxiv.org/abs/2502.18300) | Wenlong Chen, Bolian Li, Ruqi Zhang, Yingzhen Li |  |
+| 23. | [MCMC-driven learning](https://arxiv.org/abs/2402.09598) | Alexandre Bouchard-Côté, Trevor Campbell, Geoff Pleiss, Nikola Surjanovic |  |
 
 
 
