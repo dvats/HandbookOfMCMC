@@ -10,7 +10,7 @@ Table of contents for the Second Edition:
 | ----- | ------------ | --------- | ---- |
 | 1. | Introduction to MCMC | Charles J. Geyer |  |
 | 2. | MCMC using Hamiltonian Dynamics | Radford Neal |   |
-| 3. | [Optimising and Adapting Metropolis Algorithm Proposal Distributions](https://probability.ca/jeff/ftpdir/handbookart.pdf) | Jeffrey Rosenthal |  |
+| 3. | [Optimising and Adapting Metropolis Algorithm Proposal Distributions](https://probability.ca/jeff/ftpdir/handbookart.pdf) | Jeffrey S. Rosenthal |  |
 | 4. | [For how many iterations should we run Markov chain Monte Carlo?](https://arxiv.org/abs/2311.02726) | Charles C. Margossian, Andrew Gelman |  |
 | 5. | [Implementing MCMC: Multivariate estimation with confidence](https://arxiv.org/abs/2408.15396) | James M. Flegal, Rebecca P. Kurtz-Garcia |  |
 | 6. | Importance Sampling, Simulated Tempering, and Umbrella Sampling | Charles J. Geyer |  |
