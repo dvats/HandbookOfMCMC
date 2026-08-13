@@ -4,7 +4,7 @@ This is the GitHub repo for the revised and expanded second edition of the [Hand
 
 ## Second Edition
 
-Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.github.io/), [Galin L. Jones](https://galinj.github.io/), [Steve Brooks](https://select-statistics.co.uk/our-consultants/steve-brooks/), [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), [Xiao-li Meng](http://statistics.fas.harvard.edu/people/xiao-li-meng).
+Editors: [Radu V. Craiu](https://raducraiu.com/), [Dootika Vats](https://dvats.github.io/), [Galin L. Jones](https://galinj.github.io/), [Steve Brooks](https://select-statistics.co.uk/our-consultants/steve-brooks/), [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng).
 
 Table of contents for the Second Edition:
 
@@ -17,12 +17,12 @@ Table of contents for the Second Edition:
 | 5. | [Implementing MCMC: Multivariate estimation with confidence](https://arxiv.org/abs/2408.15396) | James M. Flegal, Rebecca P. Kurtz-Garcia |  |
 | 6. | Importance Sampling, Simulated Tempering, and Umbrella Sampling | Charles J. Geyer |  |
 | 7. | [Reversible jump Markov chain Monte Carlo and multi-model samplers](https://arxiv.org/abs/1001.2055v2) | Yanan Fan, Scott A. Sisson, Laurence Davies |  |
-| 8. | Perfecting MCMC Sampling: Recipes and Reservations | Radu V. Craiu, Xiao-Li Meng |  |
+| 8. | [Perfecting MCMC Sampling: Recipes and Reservations](https://arxiv.org/abs/2401.02518) | Radu V. Craiu, Xiao-Li Meng |  |
 | 9. | [The Data Augmentation Algorithm](https://arxiv.org/abs/2406.10464) | Vivekananda Roy, Kshitij Khare, James P. Hobert |  |
-| 10. | Latent Gaussian Models and Computation for Large Spatial Data | Murali Haran, John Hughes, Ben Seiyon Lee | [Code](https://github.com/benee55/MCMCHandbookSpatial) |
-| 11. | Partially collapsed Gibbs sampling & path-adaptive Metropolis Hastings in high-energy astrophysics | David A. van Dyk, Taeyoung Park, Hector McKimm |  |
+| 10. | [Latent Gaussian Models and Computation for Large Spatial Data](https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/168452/files/2023/10/HandbookMCMC_Spatial.pdf) | Murali Haran, John Hughes, Ben Seiyon Lee | [Code](https://github.com/benee55/MCMCHandbookSpatial) |
+| 11. | [Partially collapsed Gibbs sampling & path-adaptive Metropolis Hastings in high-energy astrophysics](https://www.ma.imperial.ac.uk/~dvandyk/Research/11-mcmc.bk-astro.pdf) | David A. van Dyk, Taeyoung Park, Hector McKimm |  |
 | 12. | [Posterior exploration for computationally intensive forward models](https://arxiv.org/abs/2405.00397) | Mikkel B. Lykkegaard, Colin Fox, Dave Higdon, C. Shane Reese, J. David Moulton |  |
-| 13. | MCMC for State Space Models | Paul Fearnhead Chris Sherlock |  |
+| 13. | [MCMC for State Space Models](https://arxiv.org/abs/2510.04932) | Paul Fearnhead Chris Sherlock |  |
 | 14. | [MCMC methods for multi-modal distributions](https://arxiv.org/abs/2501.05908v1) | Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon |  |
 | 15. | [Algorithms for Models with Intractable Normalizing Functions](https://arxiv.org/abs/2603.17460) | Murali Haran, Bokgyeong Kang, Jaewoo Park | [Code](https://github.com/bokgyeong/HandbookMCMC) |
 | 16. | [Sacred and profane: from the involutive theory of MCMC to helpful Hamiltonian hacks](https://arxiv.org/abs/2410.17398) | Nathan E. Glatt-Holtz, Andrew J. Holbrook, Justin A. Krometis, Cecilia F. Mondaini, Ami Sheth | [Code](https://github.com/andrewjholbrook/mcmc_handbook) |
